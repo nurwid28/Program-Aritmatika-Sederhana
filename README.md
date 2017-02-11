@@ -14,7 +14,7 @@ ScreenShoots 1
 
 ScreenShoots 2
 
-<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik2.png">
+<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik2.PNG">
 
 ScreenShoots 3
 
@@ -22,24 +22,24 @@ ScreenShoots 3
 
 ScreenShoots 4
 
-<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik4.png">
+<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik4.PNG">
 
 ScreenShoots 5
 
-<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik5.png">
+<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik5.PNG">
 
 ScreenShoots 6
 
-<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik6.png">
+<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik6.PNG">
 
 ScreenShoots 7
 
-<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik7.png">
+<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik7.PNG">
 
 ScreenShoots 8
 
-<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik8.png">
+<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik8.PNG">
 
 ScreenShoots 9
 
-<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik9.png">
+<img src="https://github.com/nurwid28/Program-Aritmatika-Sederhana/blob/master/aritmatik9.PNG">
